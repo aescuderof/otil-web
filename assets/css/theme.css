@@ -2716,15 +2716,15 @@ fieldset:disabled a.btn {
 }
 
 .btn-white {
-  color: #030507;
-  background-color: #fff;
-  border-color: #fff;
+  color: #fff;
+  background-color: #002B56;
+  border-color: #002B56;
   box-shadow: none;
 }
 .btn-white:hover {
-  color: #030507;
-  background-color: #ececec;
-  border-color: #e6e6e6;
+  color: #fff;
+  background-color: #002B56;
+  border-color: #002B56;
 }
 .btn-white:focus, .btn-white.focus {
   color: #030507;
