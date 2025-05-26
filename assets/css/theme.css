@@ -2469,19 +2469,19 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #405be8;
-  border-color: #405be8;
+  background-color: #C16B0C;
+  border-color: ##C16B0C;
   box-shadow: none;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #1e3ee4;
-  border-color: #1a39db;
+  background-color: #002B56;
+  border-color: #002B56;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #1e3ee4;
-  border-color: #1a39db;
+  background-color: #C16B0C;
+  border-color: #C16B0C;
   box-shadow: none, 0 0 0 0 rgba(93, 116, 235, 0.5);
 }
 .btn-primary.disabled, .btn-primary:disabled {
@@ -16117,7 +16117,7 @@ select.form-control.form-control-soft-dark:focus::-ms-value {
 }
 
 .btn-primary {
-  background-color: #405be8;
+  background-color: #C16B0C;
 }
 
 .btn-secondary {
