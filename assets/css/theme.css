@@ -15649,11 +15649,11 @@ button.bg-white:focus {
 }
 
 .text-primary {
-  color: #405be8 !important;
+  color: #C16B0C !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
-  color: #1833c4 !important;
+  color: #002B56 !important;
 }
 
 .text-secondary {
@@ -16369,11 +16369,11 @@ select.form-control.form-control-soft-dark:focus::-ms-value {
 }
 
 .btn-text-primary {
-  color: #405be8;
+  color: #C16B0C;
   background: transparent;
 }
 .btn-text-primary[href]:hover, .btn-text-primary[href]:focus, .btn-text-primary[href]:active, .btn-text-primary[type]:hover, .btn-text-primary[type]:focus, .btn-text-primary[type]:active {
-  color: #1833c4;
+  color: #C16B0C;
 }
 
 .btn-text-secondary {
